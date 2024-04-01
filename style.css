@@ -49,6 +49,12 @@ button{
   align-items: center;
   border-radius: 10px;
   cursor: pointer;
+
+}
+
+.music-container:hover {
+    transform: scale(1.05);
+    color: #ffffff;
 }
 
 #music1 {
